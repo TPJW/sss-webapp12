@@ -1,0 +1,37 @@
+[
+  {
+    "id": "stormwaterReliability",
+    "radarChartName": "Stormwater Reliability",
+    "fullName": "Stormwater Reliability & Management",
+    "description": "Measures the site's capability to effectively manage and infiltrate stormwater, reducing runoff and improving water quality.",
+    "iconPath": "CloudRain"
+  },
+  {
+    "id": "heatShadeComfort",
+    "radarChartName": "Heat & Shade Comfort",
+    "fullName": "Heat Mitigation & Shade Comfort",
+    "description": "Evalutes the amount of shade and reduced heat island effect to support human wellness outdoors.",
+    "iconPath": "Sun"
+  },
+  {
+    "id": "maintenancePredictability",
+    "radarChartName": "Maintenance Predictability",
+    "fullName": "Maintenance Predictability & Effort",
+    "description": "Reflects the degree of specialized maintenance, labor, and lifetime effort required to uphold the design.",
+    "iconPath": "Tool"
+  },
+  {
+    "id": "ecologicalFunction",
+    "radarChartName": "Ecological Function",
+    "fullName": "Ecological Function & Biodiversity",
+    "description": "Assesses the diversity of plant life, structural complexity of habitats, and overall support for local ecology.",
+    "iconPath": "Leaf"
+  },
+  {
+    "id": "longTermCostStability",
+    "radarChartName": "Long-Term Cost Stability",
+    "fullName": "Long-Term Cost & Lifecycle Stability",
+    "description": "Examines the upfront capital offset against long-term operation, replacement, and material lifespan savings.",
+    "iconPath": "TrendingUp"
+  }
+]
