@@ -1,0 +1,294 @@
+{
+  "siteSystems": [
+    {
+      "systemName": "Soils",
+      "options": [
+        {
+          "type": "Baseline",
+          "isRecommended": false,
+          "name": "Conventional Subgrade + Topsoil",
+          "description": "Compacted subgrade with a standard depth of imported topsoil in planting areas.",
+          "pros": [
+            "Lowest upfront cost",
+            "Standard construction approach"
+          ],
+          "cons": [
+            "Poor infiltration and root growth",
+            "Higher long-term plant stress and replacement"
+          ]
+        },
+        {
+          "type": "Enhanced",
+          "isRecommended": true,
+          "name": "Targeted Soil Improvement",
+          "description": "Selective decompaction and compost amendment in planting and stormwater areas.",
+          "pros": [
+            "Improves infiltration and plant health",
+            "Reduces irrigation and replacement needs",
+            "Cost-effective performance gains"
+          ],
+          "cons": [
+            "Requires construction oversight",
+            "Slight increase in earthwork coordination"
+          ]
+        },
+        {
+          "type": "High Performance",
+          "isRecommended": false,
+          "name": "Soil as Infrastructure",
+          "description": "Engineered soils designed to support stormwater infiltration, tree growth, and long-term carbon storage.",
+          "pros": [
+            "Maximizes performance of all landscape systems",
+            "Extends lifespan of trees and plantings",
+            "Reduces long-term maintenance costs"
+          ],
+          "cons": [
+            "Higher upfront cost",
+            "Requires contractor familiarity and inspection"
+          ]
+        }
+      ]
+    },
+	{
+      "systemName": "Water",
+      "options": [
+        {
+          "type": "Baseline",
+          "isRecommended": false,
+          "name": "Code-minimum compliance",
+          "description": "Stormwater is managed primarily through a centralized detention basin sized to meet local requirements.",
+          "pros": [
+            "Lowest upfront cost",
+            "Familiar to reviewers and contractors"
+          ],
+          "cons": [
+            "Larger land area dedicated to detention",
+            "Limited water quality or site-scale benefits"
+          ]
+        },
+        {
+          "type": "Enhanced",
+          "isRecommended": true,
+          "name": "Distributed Stormwater Treatment",
+          "description": "Stormwater is managed through a combination of smaller rain gardens, amended soils, and a reduced detention basin.",
+          "pros": [
+            "Reduces basin size and grading impacts",
+            "Improves infiltration and water quality",
+            "Integrates stormwater into the landscape"
+          ],
+          "cons": [
+            "Requires early coordination with civil engineering",
+            "Slightly higher upfront design effort"
+          ]
+        },
+        {
+          "type": "High Performance",
+          "isRecommended": false,
+          "name": "Green Infrastructure first approach",
+          "description": "Stormwater is treated and infiltrated across the site using integrated green infrastructure systems before reaching detention or discharge points.",
+          "pros": [
+            "Maximizes water quality and runoff reduction",
+            "Supports long-term resilience and regulatory flexibility",
+            "Enhances site character and user experience"
+          ],
+          "cons": [
+            "Higher upfront cost",
+            "Requires committed maintenance practices"
+          ]
+        }
+      ]
+    },
+    {
+      "systemName": "Tree Cover",
+      "options": [
+        {
+          "type": "Baseline",
+          "isRecommended": false,
+          "name": "Code-Required Planting",
+          "description": "Plants meet minimum ordinance requirements, typically after site layout is finalized.",
+          "pros": [
+            "Meets regulatory requirements",
+            "Minimal coordination needed"
+          ],
+          "cons": [
+            "Limited canopy coverage",
+            "Higher long-term replacement risk"
+          ]
+        },
+        {
+          "type": "Enhanced",
+          "isRecommended": true,
+          "name": "Preservation-First + Strategic Canopy",
+          "description": "Existing healthy trees are prioritized, and new trees are placed to maximize shade and long-term growth.",
+          "pros": [
+            "Immediate canopy benefits",
+            "Improves user comfort and heat mitigation",
+            "Protects long-term site value"
+          ],
+          "cons": [
+            "May influence layout and grading",
+            "Requires early planning decisions"
+          ]
+        },
+        {
+          "type": "High Performance",
+          "isRecommended": false,
+          "name": "Canopy-Driven Site Design",
+          "description": "Tree canopy goals guide site layout, soil volumes, and circulation from the beginning of design.",
+          "pros": [
+            "Maximizes cooling and comfort",
+            "Longest tree lifespan and lowest replacement rate",
+            "Strong visual and environmental identity"
+          ],
+          "cons": [
+            "Higher design coordination effort",
+            "Reduced flexibility later in design"
+          ]
+        }
+      ]
+    },
+    {
+      "systemName": "Habitat & Vegetation",
+      "options": [
+        {
+          "type": "Baseline",
+          "isRecommended": false,
+          "name": "Turf and Ornamental Planting",
+          "description": "Turfgrass with conventional ornamental planting in accent areas.",
+          "pros": [
+            "Familiar appearance",
+            "Simple maintenance practices"
+          ],
+          "cons": [
+            "High mowing and input requirements",
+            "Limited ecological value"
+          ]
+        },
+        {
+          "type": "Enhanced",
+          "isRecommended": false,
+          "name": "Structured Native Planting",
+          "description": "Native and adapted plant species arranged in clear, maintainable planting patterns.",
+          "pros": [
+            "Reduced long-term maintenance",
+            "Improved seasonal interest",
+            "Supports pollinators without appearing unmanaged"
+          ],
+          "cons": [
+            "Establishment period requires patience",
+            "Requires maintenance education"
+          ]
+        },
+        {
+          "type": "High Performance",
+          "isRecommended": false,
+          "name": "Habitat-Forward Landscape",
+          "description": "Plant communities are designed to function as habitat while remaining legible and intentional.",
+          "pros": [
+            "Maximizes biodiversity",
+            "Reduces long-term inputs",
+            "Strong alignment with sustainability goals"
+          ],
+          "cons": [
+            "Requires informed maintenance",
+            "May challenge traditional aesthetic expectations"
+          ]
+        }
+      ]
+    },
+    {
+      "systemName": "Materials and Paving",
+      "options": [
+        {
+          "type": "Baseline",
+          "isRecommended": false,
+          "name": "Standard Concrete and Asphalt",
+          "description": "Conventional paving materials sized to minimum standards.",
+          "pros": [
+            "Lowest upfront cost",
+            "Familiar construction methods"
+          ],
+          "cons": [
+            "Higher heat retention",
+            "Limited stormwater benefit"
+          ]
+        },
+        {
+          "type": "Enhanced",
+          "isRecommended": false,
+          "name": "Material Reduction + Durability Focus",
+          "description": "Reduced paved areas paired with durable, long-life materials.",
+          "pros": [
+            "Lower long-term replacement costs",
+            "Improved site comfort",
+            "Better alignment with maintenance capabilities"
+          ],
+          "cons": [
+            "Requires early circulation planning",
+            "Slightly higher unit costs"
+          ]
+        },
+        {
+          "type": "High Performance",
+          "isRecommended": false,
+          "name": "Integrated Permeable & Low-Carbon Materials",
+          "description": "Strategic use of permeable paving and materials selected for long-term environmental performance.",
+          "pros": [
+            "Supports stormwater and heat reduction",
+            "Reduces lifecycle impacts"
+          ],
+          "cons": [
+            "Higher upfront cost",
+            "Requires committed maintenance"
+          ]
+        }
+      ]
+    },
+    {
+      "systemName": "Human Wellness",
+      "options": [
+        {
+          "type": "Baseline",
+          "isRecommended": false,
+          "name": "Minimum Code Amenities",
+          "description": "Sidewalks, seating, and lighting provided to meet basic requirements.",
+          "pros": [
+            "Meets standards",
+            "Minimal coordination"
+          ],
+          "cons": [
+            "Limited comfort during heat or cold",
+            "Reduced site use"
+          ]
+        },
+        {
+          "type": "Enhanced",
+          "isRecommended": false,
+          "name": "Climate-Responsive Comfort",
+          "description": "Shade, wind protection, and seating are intentionally located to extend seasonal use.",
+          "pros": [
+            "Improves user experience",
+            "Increases site value and occupancy"
+          ],
+          "cons": [
+            "Requires coordination with trees and structures"
+          ]
+        },
+        {
+          "type": "High Performance",
+          "isRecommended": false,
+          "name": "Year-Round Usability",
+          "description": "Site design supports comfort across seasons through canopy, materials, and microclimate strategies.",
+          "pros": [
+            "Maximizes return on investment",
+            "Strong public perception benefits"
+          ],
+          "cons": [
+            "Higher design complexity",
+            "May increase initial costs"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+"Project Number": "21-186.040"
+"Project Name": "Okemos Cornell Middle School"
+"Client Name": "OKEMOS PUBLIC SCHOOLS"
+"Landscape Architect": "BOB DOMPIERRE"
+"LA Email": "bob.dompierre@towerpinkster.com"
+"LA Phone": "(231) 590 - 1160"
